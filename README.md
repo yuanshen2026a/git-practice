@@ -8,12 +8,14 @@
 - 配置 SSH，能直接 push 到 GitHub
 - 完成 20 次有意义的 commit
 - 练习 branch / merge / PR / 冲突解决
+-  练习 branch 和 merge（2026-11-16）
 
 ## 目录
 
 - [START-HERE.md](START-HERE.md)：0 基础先做第一个 commit
 - [TASKS.md](TASKS.md)：今天的学习路线和 20 次 commit 清单
 - [CHEATSHEET.md](CHEATSHEET.md)：常用命令速查
+  
 
 ## 学习原则
 
