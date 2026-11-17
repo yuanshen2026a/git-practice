@@ -6,7 +6,7 @@
 
 - 跑通本地 Git 工作流：`status` / `add` / `commit` / `log` / `diff`
 - 配置 SSH，能直接 push 到 GitHub
-- 完成 20 次有意义的 commit
+- 完成 20 次有意义的 commit（分支进程7/20）
 - 练习 branch / merge / PR / 冲突解决
 -  练习 branch 和 merge（2026-11-16）
 
