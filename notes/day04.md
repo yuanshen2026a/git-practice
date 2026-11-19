@@ -15,3 +15,8 @@
 - origin/main 是远程跟踪分支
 - 本地 main 跟踪 origin/main
 - temp-remote 是从 origin/main 创建的临时本地分支
+[200~- git branch -r 看到 origin/main
+- git switch -c temp-remote origin/main 创建本地分支
+- git branch -vv 查看分支和上游
+- git switch main 切回
+- git branch -d temp-remote 删除临时分支
