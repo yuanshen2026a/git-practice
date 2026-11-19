@@ -270,4 +270,9 @@ ssh -T git@github.com
 git log --oneline --graph --all
 git status
 ```
-13远程仓库命令
+13远程仓库命令## 远程同步
+
+git fetch origin
+git pull --ff-only
+git branch -r
+git branch -a
