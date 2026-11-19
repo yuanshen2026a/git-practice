@@ -1,7 +1,7 @@
 # Git 学习日志
 
 这是我在 2026 年 11 月创建的 Git / GitHub 练习仓库。
-
+更新学习进度到第3天
 ## 目标
 
 - 跑通本地 Git 工作流：`status` / `add` / `commit` / `log` / `diff`
