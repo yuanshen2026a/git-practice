@@ -270,3 +270,4 @@ ssh -T git@github.com
 git log --oneline --graph --all
 git status
 ```
+13远程仓库命令
