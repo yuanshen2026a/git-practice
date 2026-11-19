@@ -23,3 +23,7 @@
 ## 学习原则
 
 一次 commit 只做一件事；commit message 写清楚“做了什么”，不要写“update”或“修改一下”。
+## 四天冲刺完成
+
+- 21 个 commit
+- 远程仓库、SSH、PR、fetch/pull
