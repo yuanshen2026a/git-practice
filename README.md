@@ -12,6 +12,7 @@
 - 配置 GitHub 远程仓库
 - 使用 SSH 推送本地提交
 - 完成第一个 Pull Request
+- - Day 4：练习 fetch 和 pull
 ## 目录
 
 - [START-HERE.md](START-HERE.md)：0 基础先做第一个 commit
