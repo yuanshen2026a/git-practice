@@ -6,11 +6,9 @@
 
 - 跑通本地 Git 工作流：`status` / `add` / `commit` / `log` / `diff`
 - 配置 SSH，能直接 push 到 GitHub
-- 完成 20 次有意义的 commit（分支进程7/20，目标20）
+- 完成 20 次有意义的 commit（分支进程15/20，目标20）
 - 练习 branch / merge / PR / 冲突解决
 -  练习 branch 和 merge（2026-11-16）
-## 第 3 天目标
-
 - 配置 GitHub 远程仓库
 - 使用 SSH 推送本地提交
 - 完成第一个 Pull Request
