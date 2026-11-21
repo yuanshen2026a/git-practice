@@ -12,7 +12,7 @@
 | 30–50 min | 初始化本地仓库，完成前 3 次 commit | `git log --oneline` 有 3 条记录 |
 | 50–65 min | 创建分支、修改、合并 | `git log --graph` 能看到分支合并 |
 | 65–90 min | 推到 GitHub，开第一个 PR 并合并 | GitHub 上能看到 1 个 merged PR |
-
+闹吗了
 ---
 
 ## 0. 检查环境
